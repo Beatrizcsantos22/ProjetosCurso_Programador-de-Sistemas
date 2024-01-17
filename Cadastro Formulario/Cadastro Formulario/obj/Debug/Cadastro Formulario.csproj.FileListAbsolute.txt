@@ -1,0 +1,20 @@
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\bin\Debug\Cadastro Formulario.exe.config
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\bin\Debug\Cadastro Formulario.exe
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\bin\Debug\Cadastro Formulario.pdb
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\obj\Debug\Cadastro Formulario.csproj.AssemblyReference.cache
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\obj\Debug\Cadastro_Formulario.Form1.resources
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\obj\Debug\Cadastro_Formulario.Properties.Resources.resources
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\obj\Debug\Cadastro Formulario.csproj.GenerateResource.cache
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\obj\Debug\Cadastro Formulario.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\obj\Debug\Cadastro Formulario.exe
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\obj\Debug\Cadastro Formulario.pdb
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\bin\Debug\Cadastro Formulario.exe.config
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\bin\Debug\Cadastro Formulario.exe
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\bin\Debug\Cadastro Formulario.pdb
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\obj\Debug\Cadastro Formulario.csproj.AssemblyReference.cache
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\obj\Debug\Cadastro_Formulario.Form1.resources
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\obj\Debug\Cadastro_Formulario.Properties.Resources.resources
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\obj\Debug\Cadastro Formulario.csproj.GenerateResource.cache
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\obj\Debug\Cadastro Formulario.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\obj\Debug\Cadastro Formulario.exe
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\Cadastro Formulario\Cadastro Formulario\obj\Debug\Cadastro Formulario.pdb

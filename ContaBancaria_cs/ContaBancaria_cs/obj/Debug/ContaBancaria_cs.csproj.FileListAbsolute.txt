@@ -1,0 +1,43 @@
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\bin\Debug\ContaBancaria_cs.exe.config
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\bin\Debug\ContaBancaria_cs.exe
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\bin\Debug\ContaBancaria_cs.pdb
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.csproj.AssemblyReference.cache
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.Cadastro_cs.resources
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.Entrada_Conta.resources
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.FrmTelaInicial.resources
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.Properties.Resources.resources
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.csproj.GenerateResource.cache
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.exe
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.pdb
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.SacarDeposito_cs.resources
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.CadastroEmpresa.resources
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.FinanceiroEmpresa.resources
+C:\Users\beatr\OneDrive\Área de Trabalho\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.Posso_Ajudar.resources
+C:\Users\beatr\OneDrive\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.csproj.AssemblyReference.cache
+C:\Users\beatr\OneDrive\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.CadastroEmpresa.resources
+C:\Users\beatr\OneDrive\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.Cadastro_cs.resources
+C:\Users\beatr\OneDrive\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.Entrada_Conta.resources
+C:\Users\beatr\OneDrive\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.FinanceiroEmpresa.resources
+C:\Users\beatr\OneDrive\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.Posso_Ajudar.resources
+C:\Users\beatr\OneDrive\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.SacarDeposito_cs.resources
+C:\Users\beatr\OneDrive\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cso.FrmTelaInicial.resources
+C:\Users\beatr\OneDrive\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.Properties.Resources.resources
+C:\Users\beatr\OneDrive\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.csproj.GenerateResource.cache
+C:\Users\beatr\OneDrive\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.exe
+C:\Users\beatr\OneDrive\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.pdb
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.csproj.AssemblyReference.cache
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.CadastroEmpresa.resources
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.Cadastro_cs.resources
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.Entrada_Conta.resources
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.FinanceiroEmpresa.resources
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.Posso_Ajudar.resources
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.SacarDeposito_cs.resources
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cso.FrmTelaInicial.resources
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.Properties.Resources.resources
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.csproj.GenerateResource.cache
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.exe
+C:\Users\beatr\OneDrive\cursos extras\Projetos C#\VisualStudioC#\ContaBancaria_cs\ContaBancaria_cs\obj\Debug\ContaBancaria_cs.pdb
